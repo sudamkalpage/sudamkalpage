@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Web Development Projects
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com
 
-<h1 align="center">Hi 👋, I'm Hashan Eranga</h1>
+<h1 align="center">Hi 👋, I'm Sudam Kalpage</h1>
 <h3 align="center">Computer Engineering Undergraduate | Co Founder - SternX | IEEE Volunteer | Publicity Leader - IEEE TMSL | University of Peradeniya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashaneranga&label=Profile%20views&color=0e75b6&style=flat" alt="hashaneranga" /> </p>
