@@ -14,24 +14,18 @@
 
 - 👯 I’m looking to collaborate on Web Development Projects
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13BO3MZZv8TV2CcSWoD9HLx1wvxsWqtQh/view](https://drive.google.com/file/d/13BO3MZZv8TV2CcSWoD9HLx1wvxsWqtQh/view)
+- 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1kw7bt17_nElzVmRrPuWAoBl1DDvbUq2r/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ccmrhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccmrhe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hashan-eranga-57584b136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hashan-eranga-57584b136/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/hashan.eranga.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hashan.eranga.3" height="30" width="40" /></a>
-<a href="https://instagram.com/_hashan_eranga_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hashan_eranga_" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/hasheranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/hasheranga" height="30" width="40" /></a>
-<a href="https://medium.com/@hashaneranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hashaneranga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hashaneranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hashaneranga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hashaneranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hashaneranga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hashaneranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hashaneranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/hashaneranga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="hashaneranga" height="30" width="40" /></a>
-<a href="https://discord.gg/#3933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3933" height="30" width="40" /></a>
+<a href="https://twitter.com/SudamKalpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudamkalpage4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sudam.kalpage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sudam.kalpage/" height="30" width="40" /></a>
+<a href="https://sudamkalpage4.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sudamkalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudamkalpage" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sudamkalpage4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sudam.Kalpage?graphType=all&locale=ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
