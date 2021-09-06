@@ -1,11 +1,11 @@
-### 👋 Hi there! I'm Sudam Kalpage a Full Stack Web developer in Sri Lanka.
+
 
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Web Development Projects
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com
 
-<h1 align="center">Hi 👋, I'm Sudam Kalpage</h1>
-<h3 align="center">Computer Engineering Undergraduate | Co Founder - SternX | IEEE Volunteer | Publicity Leader - IEEE TMSL | University of Peradeniya</h3>
+<h1 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi there! I'm Sudam Kalpage</h1>
+<h3 align="center">Full Stack Web developer | Computer Engineering Undergraduate </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashaneranga&label=Profile%20views&color=0e75b6&style=flat" alt="hashaneranga" /> </p>
 
@@ -13,11 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/ccmrhe" target="blank"><img src="https://img.shields.io/twitter/follow/ccmrhe?logo=twitter&style=for-the-badge" alt="ccmrhe" /></a> </p>
 
-- 🔭 I’m currently studying on **University of Peradeniya as a Computer Engineering Undergraduate**
+- 🔭 I’m currently studying on **University of Peradeniya**
 
-- 🌱 I’m currently studying a **Computer Engineering Course**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HashanEranga](https://github.com/HashanEranga)
+- 👨‍💻 All of my projects are available at [https://github.com/sudamkalpage](https://github.com/HashanEranga)
 
 - 📝 I regularly write articles on [https://medium.com/@HashanEranga](https://medium.com/@HashanEranga)
 
