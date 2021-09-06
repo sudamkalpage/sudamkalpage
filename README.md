@@ -1,25 +1,18 @@
 
-
-- 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on Web Development Projects
-- 📫 Feel free to reach me: sudamkalpage4@gmail.com
-
 <h1 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi there! I'm Sudam Kalpage</h1>
 <h3 align="center">Full Stack Web developer | Computer Engineering Undergraduate </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashaneranga&label=Profile%20views&color=0e75b6&style=flat" alt="hashaneranga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashaneranga" alt="hashaneranga" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage" alt="sudamkalpage" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/ccmrhe" target="blank"><img src="https://img.shields.io/twitter/follow/ccmrhe?logo=twitter&style=for-the-badge" alt="ccmrhe" /></a> </p>
 
 - 🔭 I’m currently studying on **University of Peradeniya**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sudamkalpage](https://github.com/HashanEranga)
 
-- 📝 I regularly write articles on [https://medium.com/@HashanEranga](https://medium.com/@HashanEranga)
+- 📫 Feel free to reach me: sudamkalpage4@gmail.com
 
-- 📫 How to reach me **hashaneranga@ieee.com**
+- 👯 I’m looking to collaborate on Web Development Projects
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13BO3MZZv8TV2CcSWoD9HLx1wvxsWqtQh/view](https://drive.google.com/file/d/13BO3MZZv8TV2CcSWoD9HLx1wvxsWqtQh/view)
 
@@ -49,5 +42,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashaneranga&show_icons=true&locale=en" alt="hashaneranga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashaneranga&" alt="hashaneranga" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudamkalpage&label=Profile%20views&color=0e75b6&style=flat" alt="sudamkalpage" /> </p>
+
 
 
