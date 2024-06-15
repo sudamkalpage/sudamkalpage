@@ -1,13 +1,13 @@
 
-<h1 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi there! I'm Sudam Kalpage</h1>
-<h3 align="center">Full Stack Web developer | Computer Engineering Undergraduate </h3>
+<h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi there! I'm Sudam Kalpage</h1>
+<h4 align="center">a Software Engineer in Sri Lanka | Computer Engineering Graduate </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage" alt="sudamkalpage" /></a></p>
 
 
 - 🔭 I’m currently studying on **University of Peradeniya**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sudamkalpage](https://github.com/HashanEranga)
+- 👨‍💻 All of my projects are available at [https://github.com/sudamkalpage](https://github.com/sudamkalpage)
 
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com
 
