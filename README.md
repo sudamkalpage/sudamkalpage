@@ -7,9 +7,11 @@
 - 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1kw7bt17_nElzVmRrPuWAoBl1DDvbUq2r/view?usp=sharing)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudamkalpage&" alt="sudamkalpage" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudamkalpage&theme=whatsapp-dark" alt="sudamkalpage" /></p>
+
+<p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudamkalpage&theme=whatsapp-dark" alt="GitHub Streak" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
