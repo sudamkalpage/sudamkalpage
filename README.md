@@ -2,26 +2,12 @@
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi I'm Sudam Kalpage</h1>
 <h4 align="center">Software Engineer @ Cut+Dry | Computer Engineering Graduate </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
-
-
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com
 - 👯 I’m looking to collaborate on Web Development Projects
 - 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1kw7bt17_nElzVmRrPuWAoBl1DDvbUq2r/view?usp=sharing)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sudamkalpage4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sudam.kalpage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sudam.kalpage/" height="30" width="40" /></a>
-<a href="https://sudamkalpage4.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sudamkalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudamkalpage" height="30" width="40" /></a>
-<a href="https://twitter.com/SudamKalpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudamkalpage4" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Sudam.Kalpage?graphType=all&locale=ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/sudamwageeshakalpge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sudamkalapge" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12693134/sudam-kalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudamkalpage&" alt="sudamkalpage" /></p>
 
@@ -54,8 +40,24 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
 
-  
+
+  <h3 align="left">Connect with me:</h3>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudamkalpage&show_icons=true&locale=en&layout=compact" alt="sudamkalpage" /></p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sudamkalpage4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sudam.kalpage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sudam.kalpage/" height="30" width="40" /></a>
+<a href="https://sudamkalpage4.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sudamkalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudamkalpage" height="30" width="40" /></a>
+<a href="https://twitter.com/SudamKalpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudamkalpage4" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sudam.Kalpage?graphType=all&locale=ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/sudamwageeshakalpge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sudamkalapge" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12693134/sudam-kalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudamkalpage&label=Visitors&color=0e75b6&style=flat" alt="sudamkalpage" /> </p>
 
