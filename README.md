@@ -23,8 +23,6 @@
 <a href="https://stackoverflow.com/users/12693134/sudam-kalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sudamkalpage&show_icons=true&locale=en" alt="sudamkalpage" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudamkalpage&" alt="sudamkalpage" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
