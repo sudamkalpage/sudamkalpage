@@ -3,12 +3,9 @@
 <h4 align="center">Software Engineer @ Cut+Dry | Computer Engineering Graduate </h3>
 
 <p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudamkalpage&theme=whatsapp-dark" alt="GitHub Streak" /></a></p>
-
-
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com
 - 👯 I’m looking to collaborate on Web Development Projects
-- 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1kw7bt17_nElzVmRrPuWAoBl1DDvbUq2r/view?usp=sharing)
-
+- 📄 Know about my experiences [Curriculum vitae]()
 </br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
@@ -16,14 +13,12 @@
 <!---
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudamkalpage&theme=whatsapp-dark" alt="sudamkalpage" /></p>
 --> 
-
 <!---
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudamkalpage&show_icons=true&locale=en" alt="sudamkalpage" /></p>
 --> 
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> 
-
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -36,7 +31,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
+
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -54,9 +49,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudamkalpage&show_icons=true&locale=en&layout=compact" alt="sudamkalpage" /></p>
 
   
-
-<h3 align="left">Connect with me:</h3>
-<hr />
+## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sudamkalpage4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
@@ -69,8 +62,8 @@
 <a href="https://stackoverflow.com/users/12693134/sudam-kalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
 </p>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudamkalpage&label=Visitors&color=0e75b6&style=flat" alt="sudamkalpage" /> </p>
+
 
 
 
