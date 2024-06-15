@@ -41,11 +41,9 @@
   <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
 
 
-  <h3 align="left">Connect with me:</h3>
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudamkalpage&show_icons=true&locale=en&layout=compact" alt="sudamkalpage" /></p>
 
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sudamkalpage4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
