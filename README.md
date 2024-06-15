@@ -2,7 +2,7 @@
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi I'm Sudam Kalpage</h1>
 <h4 align="center">Software Engineer @ Cut+Dry | Computer Engineering Graduate </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&rank=-B,-C" alt="sudamkalpage" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
 
 
 - 🔭 I’m currently studying on **University of Peradeniya**
