@@ -6,7 +6,7 @@
 
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com
 - 👯 I’m looking to collaborate on Web Scraping and Web Development Projects
-- 📄 Know about my experiences [Curriculum vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
 
 </br>
 
