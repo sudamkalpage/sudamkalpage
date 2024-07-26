@@ -4,7 +4,7 @@
 
 <p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudamkalpage&theme=whatsapp-dark" alt="GitHub Streak" /></a></p>
 
-- 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com
+- 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com 
 - 👯 I’m looking to collaborate on Web Scraping, Web Development, and Computer Science based Projects
 - 📄 Know about my journey [Curriculum Vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
 
