@@ -17,6 +17,9 @@ Basic Info
 - 📄 Know about my journey [Curriculum Vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
 </br>
 
+<!---
+Trophies
+--> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudamkalpage&theme=juicyfresh&title=MultiLanguage,Commits,Repositories,PullRequest,Experience&rank=-B,-C" alt="sudamkalpage" /></a></p>
 
 <!---
