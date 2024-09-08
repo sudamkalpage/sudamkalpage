@@ -63,6 +63,9 @@ Languages and Tools
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudamkalpage&show_icons=true&locale=en&layout=compact" alt="sudamkalpage" /></p>
 
+<!---
+Connect with me
+--> 
 ## Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudam-kalpage-a2415b186/" height="30" width="40" /></a>
