@@ -79,4 +79,7 @@ Connect with me
 <a href="https://stackoverflow.com/users/12693134/sudam-kalpage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="30" width="40" /></a>
 </p>
 
+--> 
+## Visitors
+<p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudamkalpage&label=Visitors&color=0e75b6&style=flat" alt="sudamkalpage" /> </p>
