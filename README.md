@@ -4,8 +4,6 @@ Name & Resgination
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi I'm Sudam Kalpage</h1>
 <h4 align="center">Software Engineer @ Cut+Dry | Computer Engineering Graduate</h3>
 
-
-
 <!---
 Overall Stats Dashboard
 --> 
