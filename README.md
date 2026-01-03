@@ -28,7 +28,6 @@ Trophies
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudamkalpage&show_icons=true&locale=en" alt="sudamkalpage" /></p>
 --> 
 
-
 <!---
 Languages and Tools
 --> 
