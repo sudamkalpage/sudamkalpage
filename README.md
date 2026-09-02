@@ -18,6 +18,7 @@ Basic Info
 - 📄 Know about my journey [Curriculum Vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
 </br>
 
+
 <!---
 Trophies
 --> 
