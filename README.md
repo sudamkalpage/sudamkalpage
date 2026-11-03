@@ -1,16 +1,20 @@
 <!---
 Name & Resgination
 --> 
+
 <h2 align="center">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi I'm Sudam Kalpage</h1>
 <h4 align="center">Associate Technical Lead @ Cut+Dry | Computer Engineering Graduate</h
+
 <!---
 Overall Stats Dashboard
 --> 
+
 <p align=center><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sudamkalpage&theme=whatsapp-dark" alt="GitHub Streak" /></a></p>
 
 <!---
 Basic Info
 --> 
+
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com
 - 👯 I’m looking to collaborate on Web Scraping, Web Development, and Computer Science-based Projects
 - 📄 Know about my journey [Curriculum Vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
