@@ -15,7 +15,6 @@ Overall Stats Dashboard
 Basic Info
 --> 
 
-
 - 📫 Feel free to reach me: sudamkalpage4@gmail.com / sudam@sternxengineering.com
 - 👯 I’m looking to collaborate on Web Scraping, Web Development, and Computer Science-based Projects
 - 📄 Know about my journey [Curriculum Vitae](https://drive.google.com/file/d/1UCudgoNrrP2NPxJag49r1HMF3wgqVLZ1/view?usp=sharing)
